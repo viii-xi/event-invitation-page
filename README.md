@@ -1,6 +1,6 @@
 # Event Invitation Page - MotionCut Week 2 - Project 1
 
-This is my **Week 2 project 1** for the [MotionCut Internship Program](https://motioncut.live), developed by **Akshita Kushwaha**.
+This is my **Web Development Week 2 - Project 1** for the [MotionCut Internship Program](https://motioncut.live), developed by **Akshita Kushwaha**.
 
 It’s a beautifully animated, responsive wedding invitation webpage built using **HTML** and **CSS**, featuring elegant fonts, subtle animations, and social sharing options.
 
